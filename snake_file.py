@@ -1,12 +1,11 @@
-import pygame,sys
-import random
+import pygame, sys, random
 
 #initialization or set of pygame
 pygame.init()
 
 #colors
 black=(0, 0, 0)
-white=(255, 255, 255)
+white=(255, 255, 255) 
 red=(200,0,0)
 Green = (0,199,0)
 Blue = (0,0,255)
